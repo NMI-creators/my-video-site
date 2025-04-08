@@ -1,1 +1,24 @@
 # my-video-site
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>動画ページ</title>
+  <style>
+    body { font-family: sans-serif; background: #f0f0f0; padding: 20px; }
+    .container { max-width: 800px; margin: auto; background: white; padding: 20px; }
+    video { width: 100%; height: auto; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>動画のタイトル</h1>
+    <video controls>
+      <source src="movie.mp4" type="video/mp4">
+      この動画は再生できません。
+    </video>
+    <p><a href="movie.mp4" download>動画をダウンロード</a></p>
+  </div>
+</body>
+</html>
