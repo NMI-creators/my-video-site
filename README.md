@@ -21,4 +21,9 @@
     <p><a href="movie.mp4" download>動画をダウンロード</a></p>
   </div>
 </body>
+  <video controls width="640">
+  <source src="movie.mp4" type="video/mp4">
+  お使いのブラウザでは動画を再生できません。
+</video>
+
 </html>
