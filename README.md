@@ -23,7 +23,7 @@
   <h1>ようこそ！動画をお楽しみください</h1>
   
   <video controls>
-    <source src="movie.mp4" type="video/mp4">
+    <source src="動画のファイル名" type="video/mp4">
     お使いのブラウザでは動画を再生できません。
   </video>
 
