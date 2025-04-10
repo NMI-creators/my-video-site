@@ -1,10 +1,9 @@
-# my-video-site
 <!DOCTYPE html>
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>動画視聴サイト</title>
+  <title>凱友伝 旧二.五章 話</title>
   <style>
     body {
       font-family: sans-serif;
